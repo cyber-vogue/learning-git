@@ -3,4 +3,4 @@ console.log(hi)
 
 console.log(hi)
 console.log(hello)
-console.log(updated)
+console.log("welcome to codit solutions")
